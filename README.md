@@ -1,6 +1,3 @@
-
----
-
 # 🏴‍☠️ Cybersecurity / Offensive Security / Bug Bounty Resources
 
 > **Purpose:** Master Cybersecurity, Offensive Security & Bug Hunting
